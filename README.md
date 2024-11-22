@@ -56,7 +56,7 @@ MPI from Python.
 <h2>Message Passing Programming with MPI</h2>
 
 <p><strong>Dates: </strong>26th - 27th November 2024, Birmingham
-<p><strong>Location: Elm House, Edgbaston Park, 351 Bristol Road</strong>
+<p><strong>Location: </strong>Elm House, Edgbaston Park, 351 Bristol Road
 
 <h3>Timetable</h3>
 
